@@ -8,7 +8,7 @@
 int main()
 {
 	int div, i, n, contor=0, suma = 0;
-
+	//E ok
 	scanf("%d", &n);
 	for (i = 1; i <= n; i++) {
 		if (n % i == 0 && i % 2 == 0) 
